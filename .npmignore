@@ -1,0 +1,16 @@
+# source
+lib
+tests
+index.ts
+package-lock.json
+tslint.json
+tsconfig.json
+.prettierrc
+.eslintignore
+.eslintrc.js
+
+# github
+.github
+
+# ci
+.circleci
